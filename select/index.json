@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Old Love",
+  "base_artist": "yuji & putri dahlia",
+  "createdAt": "2026-02-27T15:48:11.186964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "She's Just An Old Love Turned Memory",
+      "artist": "Charley Pride",
+      "has_synced": true,
+      "path": "select/01_She's_Just_An_Old_Love_Turned_Memory_Charley_Pride.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Old Love",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/02_Old_Love_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Old Love",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/03_Old_Love_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Same Old Love",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Brielle Von Hugel",
+      "has_synced": true,
+      "path": "select/04_Same_Old_Love_Scott_Bradlee's_Postmodern_Jukebox_feat._Brielle_Von_Hugel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Same Old Love",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/05_Same_Old_Love_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Same Old Love",
+      "artist": "Selena Gomez",
+      "has_synced": true,
+      "path": "select/06_Same_Old_Love_Selena_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Old Love (Let's Try It Again)",
+      "artist": "Martha Reeves and The Vandellas",
+      "has_synced": false,
+      "path": "select/07_Old_Love_(Let's_Try_It_Again)_Martha_Reeves_and_The_Vandellas.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Old Love (Acoustic Live)",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/08_Old_Love_(Acoustic_Live)_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Old Love (Acoustic Live)",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/09_Old_Love_(Acoustic_Live)_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Same Old Love",
+      "artist": "Selena Gomez",
+      "has_synced": true,
+      "path": "select/10_Same_Old_Love_Selena_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Old Love",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/11_Old_Love_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Them Old Love Songs",
+      "artist": "Waylon Jennings",
+      "has_synced": false,
+      "path": "select/12_Them_Old_Love_Songs_Waylon_Jennings.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Them Old Love Songs",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/13_Them_Old_Love_Songs_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Old Love Song",
+      "artist": "Roy Orbison",
+      "has_synced": false,
+      "path": "select/14_Old_Love_Song_Roy_Orbison.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Same Old Love",
+      "artist": "Peabo Bryson",
+      "has_synced": true,
+      "path": "select/15_Same_Old_Love_Peabo_Bryson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Any Old Love Won't Do",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/16_Any_Old_Love_Won't_Do_George_Strait.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Old Love",
+      "artist": "YUJI & putri dahlia",
+      "has_synced": false,
+      "path": "select/pl_01_Old_Love_YUJI_&_putri_dahlia.txt"
+    }
+  ]
+}
